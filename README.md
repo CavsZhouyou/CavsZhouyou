@@ -1,10 +1,6 @@
-## Hi there 👋
+## Hey，我是晓天 👋
 
-<br />
-
-我是晓天
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg"/>
 
 <!--
 **CavsZhouyou/CavsZhouyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
