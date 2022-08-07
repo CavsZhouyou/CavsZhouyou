@@ -1,4 +1,4 @@
-## Hey，我是晓天 👋
+## Hi，我是晓天 👋
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"/>
 
