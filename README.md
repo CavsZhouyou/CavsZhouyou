@@ -1,6 +1,6 @@
 ## Hey，我是晓天 👋
 
-<img src="https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&w=1260&dpr=2"/>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"/>
 
 <!--
 **CavsZhouyou/CavsZhouyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
