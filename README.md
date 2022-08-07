@@ -1,6 +1,6 @@
 ## Hey，我是晓天 👋
 
-<img src="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg"/>
+<img src="https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&w=1260&dpr=2"/>
 
 <!--
 **CavsZhouyou/CavsZhouyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
