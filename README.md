@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
+
 <!--
 **CavsZhouyou/CavsZhouyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
